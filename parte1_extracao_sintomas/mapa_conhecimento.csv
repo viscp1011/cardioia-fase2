@@ -1,0 +1,44 @@
+Sintoma 1,Sintoma 2,Doença Associada
+dor no peito,aperto no tórax,Infarto agudo do miocárdio
+dor que irradia para o braço esquerdo,dor no braço esquerdo,Infarto agudo do miocárdio
+suor frio,sudorese intensa,Infarto agudo do miocárdio
+pressão no peito,dor na mandíbula,Infarto agudo do miocárdio
+náusea,enjoo,Infarto agudo do miocárdio
+piora quando faço esforço,dor ao esforço,Angina
+melhora quando paro,melhora com repouso,Angina
+queimação no peito,desconforto no peito,Angina
+falta de ar,dificuldade para respirar,Angina
+cansaço constante,fadiga,Insuficiência cardíaca
+tornozelos inchados,inchaço nos pés,Insuficiência cardíaca
+inchaço nas pernas,pernas inchadas,Insuficiência cardíaca
+falta de ar ao deitar,acordo com falta de ar,Insuficiência cardíaca
+preciso de mais travesseiros,ganho de peso rápido,Insuficiência cardíaca
+falta de ar,fôlego curto,Insuficiência cardíaca
+palpitações,coração acelerado,Arritmia cardíaca
+coração disparado,batimentos irregulares,Arritmia cardíaca
+coração falhando,batedeira no peito,Arritmia cardíaca
+tontura,sensação de desmaio,Arritmia cardíaca
+dor na nuca,dor de cabeça forte,Hipertensão arterial
+visão embaçada,vista turva,Hipertensão arterial
+sangramento no nariz,nariz sangrando,Hipertensão arterial
+zumbido no ouvido,pressão alta,Hipertensão arterial
+dor aguda no peito,dor que piora ao respirar fundo,Pericardite
+piora ao deitar,melhora quando me inclino para frente,Pericardite
+febre baixa,dor no peito ao tossir,Pericardite
+dor na panturrilha ao caminhar,dor nas pernas ao caminhar,Doença arterial periférica
+pés frios,pernas frias,Doença arterial periférica
+feridas que não cicatrizam,câimbras ao andar,Doença arterial periférica
+falta de ar súbita,falta de ar repentina,Embolia pulmonar
+dor ao respirar,tosse com sangue,Embolia pulmonar
+inchaço em uma perna,dor na panturrilha,Embolia pulmonar
+boca torta,rosto caído,Acidente vascular cerebral
+fala enrolada,dificuldade para falar,Acidente vascular cerebral
+fraqueza em um lado do corpo,formigamento em um braço,Acidente vascular cerebral
+perda súbita da visão,confusão mental,Acidente vascular cerebral
+febre persistente,calafrios,Endocardite
+suor noturno,perda de apetite,Endocardite
+manchas vermelhas na pele,perda de peso,Endocardite
+desmaio ao esforço,desmaiei,Estenose aórtica
+sopro no coração,tontura ao levantar,Estenose aórtica
+dores no corpo,depois de uma gripe,Miocardite
+febre,cansaço aos pequenos esforços,Miocardite
