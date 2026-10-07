@@ -5,11 +5,6 @@
 **Grupo:** 88
 **Integrante:** Vitorio Stevanatto Compri Paciulo — vitorioscp@gmail.com
 
----
-
-## Vídeo de demonstração
-
-> **Link (YouTube, não listado):** COLE_AQUI_O_LINK_DO_VIDEO
 
 ---
 
